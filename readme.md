@@ -2,7 +2,7 @@
 
 ### stack:
 
-- Node.js
+- Node.js (Express)
 - Typescript
 - Jest
 
