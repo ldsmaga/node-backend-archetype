@@ -10,3 +10,5 @@
 
 - tsnode
 - nodemon
+- husky
+- lint-staged
