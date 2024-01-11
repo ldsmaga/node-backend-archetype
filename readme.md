@@ -1,4 +1,4 @@
-# archetype para projetos backend
+# archetype para projetos ts-node
 
 ### stack:
 
